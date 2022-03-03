@@ -1,7 +1,7 @@
 name: active_list_functions
 description: A package with functions for Lists (arrays) that don't involve Iterables
 version: 0.0.1
-homepage:
+homepage: https://github.com/umairmohammed98/active_list_functions
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -9,10 +9,6 @@ environment:
 
 dependencies:
   flutter:
-    sdk: flutter
-
-dev_dependencies:
-  flutter_test:
     sdk: flutter
 
 # For information on the generic Dart part of this file, see the
